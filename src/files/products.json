@@ -1,0 +1,74 @@
+[
+	{
+		"title": "banana",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 1
+	},
+	{
+		"title": "banana",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 2
+	},
+	{
+		"title": "banana",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 3
+	},
+	{
+		"title": "banana",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 4
+	},
+	{
+		"title": "MANZANA",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 5
+	},
+	{
+		"title": "MANZANA",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 6
+	},
+	{
+		"title": "MANZANA",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 7
+	},
+	{
+		"title": "MANZANA",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 8
+	},
+	{
+		"title": "Pera",
+		"price": 500,
+		"description": "pan integral",
+		"stock": 6,
+		"category": "alimento",
+		"id": 9
+	}
+]
